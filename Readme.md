@@ -1,11 +1,6 @@
 # qb-burgershot
 Enables employee's at Burgershot to cook up food and serve to customers.
 
-## Updated ##
-30/11/2021 - [lilphantom25](https://github.com/lilphantom25)
-Replaced NH scripts with QB scripts, otherwise works like a charm.
-
-
 ## Dependencies  ##
 [QBCore](https://github.com/qbcore-framework/qb-core)
 
