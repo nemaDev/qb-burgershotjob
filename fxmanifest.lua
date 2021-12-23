@@ -1,13 +1,12 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'DrB1ackBeard'
+author 'nemaDev'
 description 'qb-burgershotjob for QBCore Adapted By McKlean'
 version '2.2.0'
 
 shared_scripts {
-    'config.lua',
-    '@qb-core/import.lua'
+    'config.lua'
 }
 
 client_scripts {
