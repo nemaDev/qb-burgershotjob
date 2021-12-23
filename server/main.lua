@@ -33,7 +33,7 @@ AddEventHandler("qb-burgershotjob:bill:player", function(playerId, amount)
                     TriggerClientEvent('QBCore:Notify', source, 'You Cannot Bill Yourself', 'error')
                 end
             else
-                TriggerClientEvent('QBCore:Notify', source, 'Player Not Online', 'error')
+                TriggerClientEvent('QBCore:Notify', source, 'Jugador no en linea', 'error')
             end
         else
             TriggerClientEvent('QBCore:Notify', source, 'No Access', 'error')
