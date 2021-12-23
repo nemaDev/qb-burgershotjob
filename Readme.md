@@ -95,8 +95,6 @@ QBCore.Functions.CreateUseableItem("burger-fries", function(source, item)
 end)
 ```
 
-
-
 ## Insert into @qb-smallresources --> config.lua
 ```
 Consumeables = {
