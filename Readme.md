@@ -23,16 +23,6 @@ If not using qb-target
 Simple basic Free Map :-
 [Smallo's](https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem) Map is a clean simple Free map.
 
-I have made some adjustments to Smallo's map, I have cleaned up the toilets, added a bit of life to the kitchen to make it look functional, I have also added trays and a table to the serving area that line up with the polyzones for the trays.
-- My Edit of Smallo's Map: [lilphantom25](https://github.com/lilphantom25) - [burgershot-map](https://github.com/lilphantom25/burgershot-map)
-
-## Credit ##
-Credit all goes to these people as if it wasn't for them I wouldn't have been able to get this script to work.
-
-Original Creator [Zach488](https://github.com/Zach488) of [qb-burgershot](https://github.com/Zach488/qb-burgershot)
-- Nero that allowed us to use his scripts.
-- BerkieB for his qb-target.
-
 ## Key Features ##
  - For qb-target or non qb-target servers
  - Employees for the Burgershot
