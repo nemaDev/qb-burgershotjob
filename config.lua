@@ -7,6 +7,7 @@ Config.GaragePedLocations = {
 Config.SQL = 'oxmysql' --- oxmysql or ghmattisql
 
 --if u are not using qb-target uncomment this.
+--si no está utilizando qb-target, descomente esto
 
  --[[Config.Locations = {
      ["duty"] = {
