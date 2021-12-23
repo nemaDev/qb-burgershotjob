@@ -451,7 +451,7 @@ end
 
 
 -- Register Stuff --
-RegisterNetEvent("qb-tequilalajob:bill", function()
+RegisterNetEvent("qb-burgershotjob:bill", function()
     local dialog = exports['qb-input']:ShowInput({
         header = "Till",
         submitText = "Bill Person",
@@ -472,6 +472,6 @@ RegisterNetEvent("qb-tequilalajob:bill", function()
     })
     if dialog then
         if not dialog.id or not dialog.amount then return end
-        TriggerServerEvent("qb-tequilalajob:bill:player", dialog.id, dialog.amount)
+        TriggerServerEvent("qb-burgershotjob:bill:player", dialog.id, dialog.amount)
     end
 end)
